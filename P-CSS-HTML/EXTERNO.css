@@ -1,0 +1,48 @@
+body{
+    background-color: gray;
+    }
+    
+    h1{
+        text-align: center;
+        border: 3px solid salmon;
+        background-color: aquamarine;
+        border-style:inset
+    }
+    
+    h2{
+        text-align: right;
+        border: 10px solid rgb(0, 0, 0);
+        background-color: rgb(98, 102, 105);
+        border-style: double;
+    
+    }
+    
+    hr{
+        border: 8px solid rgb(75, 75, 226)
+    }
+    
+    em{
+        color: red;
+        font-size: 1.5rem;
+        text-align: center;
+    }
+    
+    p{
+        background-color: purple;
+        border-radius: 5rem;
+        font-size: 2rem;
+        text-align: center;
+        color: rgb(145, 111, 68);
+        font-family: 'Times New Roman', Times, serif;
+        border: 2px solid red;
+    }
+    
+    strong{
+        color: aquamarine;
+    }
+    
+    ul,ol{
+        font-size: 1.3rem;
+        font-family: Arial, Helvetica, sans-serif;
+        color:aliceblue;
+    }

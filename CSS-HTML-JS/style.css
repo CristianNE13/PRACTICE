@@ -12,8 +12,3 @@
     display: inline-block;
     cursor: pointer;
   }
-  .button1::after{
-
-    background: black;
-  }
-  
